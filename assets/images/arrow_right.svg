@@ -1,0 +1,9 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+	<title>arrow_right-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width: 30 } 
+	</style>
+	<path id="Layer" class="shp0" d="M50 120L190 120" />
+	<path id="Layer" class="shp0" d="M120 50L190 120L120 190" />
+</svg>
